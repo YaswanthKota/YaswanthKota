@@ -1,5 +1,4 @@
 ### Hi there I am Yaswanth Kota!👋
-![pic](https://media.giphy.com/media/l3rpXSH9ZzryX7njTV/giphy.gif)
 ![pic](undraw_starry_window_ppm0.png)
 <!--
 **YaswanthKota/YaswanthKota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
