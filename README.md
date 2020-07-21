@@ -1,4 +1,4 @@
-### Hi there I am Yaswanth Kota!👋
+ <!--Hi there I am Yaswanth Kota!👋-->
 ![](https://github.com/YaswanthKota/YaswanthKota/blob/master/method-draw-image.svg)
 ###  I’m currently learning React!
 <!--
